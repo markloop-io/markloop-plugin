@@ -1,6 +1,6 @@
 {
   "name": "markloop",
-  "description": "Share the HTML documents your AI writes (specs, proposals, plans, reports) on Markloop, collect anchored comments from your team or clients, then let your agent read the threads, apply the changes and publish the next version at the same link.",
+  "description": "Share the HTML documents and artifacts your AI writes (specs, proposals, plans, reports) on Markloop, collect anchored comments from your team or clients, then let your agent read the threads, apply the changes and publish the next version at the same link.",
   "version": "0.1.0",
   "author": {
     "name": "Marcin Perlak",
@@ -17,6 +17,7 @@
     "comments",
     "feedback",
     "documents",
+    "artifacts",
     "html",
     "specs",
     "proposals",

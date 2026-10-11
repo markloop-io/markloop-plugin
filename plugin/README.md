@@ -1,9 +1,9 @@
 # Markloop
 
-Share the HTML documents your AI writes, collect comments, and publish the
-next version.
+Share the HTML documents and artifacts your AI writes, collect comments,
+and publish the next version.
 
-[Markloop](https://markloop.io) turns the HTML documents your AI writes
+[Markloop](https://markloop.io) turns the HTML documents and artifacts your AI writes
 (specs, proposals, plans, reports) into one link your team or clients can
 comment on. Reviewers click an element or select text and leave a comment,
 with no account needed on a public link.
