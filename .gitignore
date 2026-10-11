@@ -1,0 +1,7 @@
+.DS_Store
+dist/
+node_modules/
+*.log
+
+# Codex marketplace catalog (keep it even if a parent ignore rule excludes .agents/)
+!.agents/

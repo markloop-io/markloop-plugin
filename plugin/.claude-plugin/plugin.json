@@ -1,0 +1,27 @@
+{
+  "name": "markloop",
+  "description": "Share the HTML documents your AI writes (specs, proposals, plans, reports) on Markloop, collect anchored comments from your team or clients, then let your agent read the threads, apply the changes and publish the next version at the same link.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Marcin Perlak",
+    "url": "https://markloop.io"
+  },
+  "homepage": "https://markloop.io",
+  "repository": "https://github.com/mperlak/markloop-plugin",
+  "license": "MIT",
+  "icon": "./icon.png",
+  "documentationUrl": "https://markloop.io/docs",
+  "supportUrl": "https://markloop.io/docs/troubleshooting#support",
+  "keywords": [
+    "review",
+    "comments",
+    "feedback",
+    "documents",
+    "html",
+    "specs",
+    "proposals",
+    "versions",
+    "collaboration",
+    "clients"
+  ]
+}

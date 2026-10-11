@@ -1,0 +1,17 @@
+{
+  "name": "markloop",
+  "owner": {
+    "name": "Marcin Perlak",
+    "url": "https://markloop.io"
+  },
+  "metadata": {
+    "description": "Markloop for your AI agent: publish HTML documents for review, read the comments, and publish the next version at the same link."
+  },
+  "plugins": [
+    {
+      "name": "markloop",
+      "source": "./plugin",
+      "description": "Share the HTML docs your AI writes, collect comments, and publish the next version."
+    }
+  ]
+}

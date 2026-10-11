@@ -1,0 +1,22 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "markloop": {
+      "type": "streamable-http",
+      "url": "https://app.markloop.io/api/mcp",
+      "extensions": {
+        "com.openai": {
+          "auth": {
+            "type": "oauth",
+            "client": {
+              "mode": "dcr"
+            },
+            "authorizationUrl": "https://app.markloop.io/api/auth/mcp/authorize",
+            "tokenUrl": "https://app.markloop.io/api/auth/mcp/token",
+            "baseScopes": ["openid", "email", "profile", "offline_access"]
+          }
+        }
+      }
+    }
+  }
+}

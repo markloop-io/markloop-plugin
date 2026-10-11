@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "markloop": {
+      "type": "http",
+      "url": "https://app.markloop.io/api/mcp"
+    }
+  }
+}
