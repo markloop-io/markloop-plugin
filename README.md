@@ -15,7 +15,7 @@ hooks or local programs. What it sends and where is described in
 ### Claude Code
 
 ```text
-/plugin marketplace add mperlak/markloop-plugin
+/plugin marketplace add markloop-io/markloop-plugin
 /plugin install markloop@markloop
 ```
 
@@ -25,7 +25,7 @@ connection.
 ### Codex
 
 ```sh
-codex plugin marketplace add mperlak/markloop-plugin
+codex plugin marketplace add markloop-io/markloop-plugin
 codex plugin add markloop@markloop
 ```
 
@@ -79,4 +79,4 @@ claude plugin validate .
 - Terms of service: https://markloop.io/terms-of-service
 - Support: hi@markloop.io
 
-License: MIT, © 2026 Marcin Perłak.
+Built by [Marcin Perłak](https://github.com/mperlak). License: MIT, © 2026 Marcin Perłak.

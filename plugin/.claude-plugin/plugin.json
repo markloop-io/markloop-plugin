@@ -7,7 +7,7 @@
     "url": "https://markloop.io"
   },
   "homepage": "https://markloop.io",
-  "repository": "https://github.com/mperlak/markloop-plugin",
+  "repository": "https://github.com/markloop-io/markloop-plugin",
   "license": "MIT",
   "icon": "./icon.png",
   "documentationUrl": "https://markloop.io/docs",
