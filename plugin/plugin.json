@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "markloop",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Share the HTML documents your AI writes on Markloop, collect anchored comments from your team or clients, then read the threads, apply the changes and publish the next version at the same link.",
   "author": {
     "name": "Marcin Perlak",
