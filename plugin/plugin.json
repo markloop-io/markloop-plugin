@@ -48,7 +48,7 @@
           "What did reviewers say about my spec in Markloop? Group the comments by section.",
           "Address the open comments on my spec and publish the next version in Markloop."
         ],
-        "brandColor": "#6d3bd1",
+        "brandColor": "#F5A700",
         "composerIcon": "./assets/composer-icon.png",
         "logo": "./assets/logo.png"
       }
