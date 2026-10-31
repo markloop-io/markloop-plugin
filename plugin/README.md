@@ -17,6 +17,7 @@ skill, so your agent works the review loop for you:
 - applies the changes and publishes the next version at the same link,
   marking which comments it addressed,
 - replies in a thread when it needs an answer, and compares any two versions,
+- shares a document by public link or by email, when you ask,
 - sends a clean copy to a client's project, without your internal comments.
 
 ## How to use it
